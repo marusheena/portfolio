@@ -1,0 +1,45 @@
+h1 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 64px;
+  text-align: right;
+  margin-right: 60px;
+}
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 48px;
+  text-align: right;
+  margin-right: 60px;
+  color: #0e1112;
+}
+.sentence {
+  font-family: 'Copse', serif;
+  font-size: 54px;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 80px;
+  text-align: center;
+}
+.escritor {
+  font-family: 'Copse', serif;
+  font-size: 40px;
+  text-align: right;
+  margin-right: 60px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 80px;
+}
+.aboutme {
+  font-family: 'Copse', serif;
+  max-width: 650px;
+  padding-top: 120px;
+  text-align: right;
+  font-size: 16px;
+}
+.sobremi {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 20px;
+  transform: translate(-50% -50%);
+  transform: rotate(-90%);
+}
